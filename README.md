@@ -4,6 +4,7 @@ Aim:
 To test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios. Analyze the quality, accuracy, and depth of the generated responses.
 
 Explanation:
+
 Define the Two Prompt Types:
 
 Write a basic Prompt: Clear, detailed, and structured prompts that give specific instructions or context to guide the model. Based on that pattern type refined the prompt and submit that with AI tool. Get the ouput and write the report.
